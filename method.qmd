@@ -2,19 +2,47 @@
 title: "How did we develop the cDMA?"
 ---
 
-
-
-To fix this, we need to measure it and understand it. But NHS digital assessments have always measured from the top down, from the perspective of managers, IT, and software suppliers.
-
-That's why we developed this survey, together with more than 150 clinicians (doctors, nurses, pharmacists) across the UK. This survey will measure the major problems and pain points with EHR from the perspective of those working on the 'shop floor'. 
-
-
-
+The Clinician Digital Maturity Assessment (cDMA) was designed using a rigorous methodology, including 150 doctors, nurses, and pharmacists across England, through workshops and a national Delphi study. This process mapped out the biggest pain points in EHR and IT, and produced consensus questions to measure the most important areas. We found recurring themes, both positive and negative:
 
 ::: {.callout}
-- ⏳ I lose hours every week because our computer systems are 'down'
+- ⏳ Hours lost every week because of computer systems being 'down' or laggy
 
-- 🕘 I stay late at work most days because the computers are slow
+- 🕘 Staying late at work because computers are slow or printers being unavailable
 
-- 💻 I can't look after a patient because there are no working laptops on the ward
+- 🚨 Automated alerting, done well, helping to prevent serious events
+
+- 💻 Delays in responding to patients because there are no working laptops to access notes
+
+- ℹ️ Shared care records making information available instantly
+
+- 🔑 Requiring numerous logins across many softwares
+
+- And many others...
 :::
+
+## Methodology
+
+The slides below show a detailed methodology and key findings. A slide deck that includes the original questions that emerged from the Delphi study, can be downloaded [here](files/cdma_method.pdf) as a pdf. This work was conducted under the umbrella of NCIC, or the National Clinical Informatics Collaborative. The original Delphi study protocol can be downloaded [here](files/delphi_protocol_final.pdf).
+
+::: {.callout}
+![](figs/method_1.png)
+:::
+
+::: {.callout}
+![](figs/method_2.png)
+:::
+
+::: {.callout}
+![](figs/method_3.png)
+:::
+
+::: {.callout}
+![](figs/method_4.png)
+:::
+
+
+## Why has it taken so long to come out?
+
+You may have noticed that this work started in Summer 2021! User validation and benchmarking were completed by Spring 2023. In the intervening time, our team has made a monumental effort to unite this survey with existing NHS England [What Good Looks Like](https://transform.england.nhs.uk/digitise-connect-transform/what-good-looks-like/what-good-looks-like-publication/). While there has been excellent engagement, we could not find an agreement that would result in (1) publicly available results, and (2) mapping of all the problem areas that we know exist.
+
+As a result, with the support of the British Medical Assoiation, we have launched this as a grassroots initiative.
