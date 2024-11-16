@@ -4,35 +4,49 @@
     "href": "index.html",
     "title": "What is the cDMA?",
     "section": "",
-    "text": "Clinicians suffer every day from frequent software downtime, slow or broken computers, and poor access to vital information. These problems, and many others, get in the way of clinical work, and are a risk to quality and safety of care.\nThe Clinician Digital Maturity Assessment (cDMA) was designed by clinicians to measure experiences and pain points of EHR from the shop floor perspective.\nIt is designed for any clinical worker (e.g. doctor, nurse, pharmacist, AHP) in primary care and hospitals.\nThe results will be used to drive improvement in clinical software and IT.\nTake the cDMA Survey!"
+    "text": "Clinicians suffer every day from slow or broken computers, Electronic Health Record (EHR) downtime, and poor access to vital patient information. These problems, and many others, get in the way of clinical work, and are a risk to quality and safety of care.\nThe Clinician Digital Maturity Assessment (cDMA) was designed by clinicians to measure experiences and pain points of EHR from the shop floor perspective.\nThe cDMA is designed for any clinical worker (e.g. doctor, nurse, pharmacist, AHP) in primary care and hospitals.\nThe results will be used to drive improvement in clinical software and IT.\nTake the cDMA Survey!"
   },
   {
     "objectID": "index.html#there-are-so-many-surveys-why-should-i-take-this-one",
     "href": "index.html#there-are-so-many-surveys-why-should-i-take-this-one",
     "title": "What is the cDMA?",
     "section": "There are so many surveys, why should I take this one?",
-    "text": "There are so many surveys, why should I take this one?\nYes, you are right. There are far too many surveys, and they take far too long. But we would really appreciate it if you did this one. Here is why:\n\n\n\n\n\n\n\nYour voice will be heard. We are supported by the British Medical Association (BMA), the Health Foundation, and have direct channels open to the Care Quality Commission (CQC), the Health Safety Services Investigation Body (HSSIB), and to NHS England.\nIt was designed by 150 of your clinician colleagues through workshops and a national study to accurately reflect frontline experiences\nIt takes 8 minutes (we’ve tried it!).\nThe survey is anonymous, but unlike many official NHS surveys, data will be open source for analysis. The state of our IT should be public information."
+    "text": "There are so many surveys, why should I take this one?\nYes, you are right. There are far too many surveys, and they take far too long. But we would really appreciate it if you did this one. Here is why:\n\n\n\n\n\n\n\nYour voice will be heard. We are supported by the British Medical Association (BMA), the Health Foundation, and have direct channels open to the Care Quality Commission (CQC), the Health Safety Services Investigation Body (HSSIB), and to NHS England.\nIt was designed by 150 of your clinician colleagues through workshops and a national study to accurately reflect frontline experiences\nIt takes 8 minutes (we’ve tried it!).\nThe survey is anonymous, but unlike other surveys, data will be open source for analysis. Measurements of public systems should be public knowledge."
   },
   {
     "objectID": "index.html#we-need-you-to-help-spread-the-word",
     "href": "index.html#we-need-you-to-help-spread-the-word",
     "title": "What is the cDMA?",
     "section": "We need you to help spread the word…",
-    "text": "We need you to help spread the word…\nWe need data to make change happen. That means we need as many of you to take this as possible. If you feel this is important, PLEASE spread the word. On social media, and in your Whatsapp groups!\nWho created this? How did we design it? Take the cDMA Survey!"
+    "text": "We need you to help spread the word…\nWe need data to make change happen. That means we need as many of you to take this as possible. If you feel this is important, PLEASE spread the word. On social media, and in your Whatsapp groups!\nHow did we design the survey? Who created it? Take the cDMA Survey!"
   },
   {
     "objectID": "team.html",
     "href": "team.html",
-    "title": "Team",
+    "title": "The cDMA Team",
     "section": "",
-    "text": "Team"
+    "text": "Important\n\n\n\nDevelopment of this survey was carried out by NHS clinicians and study participants, pro bono and in their own time. At various points, members of the project team have been funded by the Wellcome Trust or NIHR for unrelated research. However, work associated with this project has not been funded directly.\n\n\n\nProject leads\n\nJoe Zhang\nSanjay Budhdeo\nHarpreet Sood\nAngela Burgin\n\n\n\nSpecial thanks\n\nDavid Parkin\nLatifa Patel\nEllen Coughlan\nSam Neville\nSimon Noel\nKieran Zucker\nRahul Singal\nMarcus Baw\nKanthan Theivendran\nDipesh Hindocha\n\n\n\nDelphi panel\n(Only those who agreed to be publicly acknowledged for their work)\n\n\n\nCelina Pook\nGemma Snell\nPeter Sin\nLouise Cave\nLeon Zlotos\nEmma Manning\nJacob Brolly\nMark Coyne\nRiaz Aziz\nJunior Ahazie\nSandeep Gusai\nAmy Vercell\nCraig Brown\nJulian Wyatt\nArturo Schlitzer\nYin Yin Lim\nHelen Dillon\n\n\n\n\nAnna Ainsworth\nBen Edwards\nPriya Patel\nJames Maguire\nChristopher Tomlinson\nJoshi Prabhu Navis\nJordan Fulcher\nMariana Santos\nGiorgio Bartalucci\nRobert James\nAriel Ong\nParvathy Radhakrishnan\nMatt Wilson\nYize Wan\nSiddhant Parashar\nStuart Innes\nLaurence Baker"
   },
   {
     "objectID": "method.html",
     "href": "method.html",
     "title": "How did we develop the cDMA?",
     "section": "",
-    "text": "To fix this, we need to measure it and understand it. But NHS digital assessments have always measured from the top down, from the perspective of managers, IT, and software suppliers.\nThat’s why we developed this survey, together with more than 150 clinicians (doctors, nurses, pharmacists) across the UK. This survey will measure the major problems and pain points with EHR from the perspective of those working on the ‘shop floor’.\n\n\n\n\n\n\n\n⏳ I lose hours every week because our computer systems are ‘down’\n🕘 I stay late at work most days because the computers are slow\n💻 I can’t look after a patient because there are no working laptops on the ward"
+    "text": "The Clinician Digital Maturity Assessment (cDMA) was designed using a rigorous methodology, including 150 doctors, nurses, and pharmacists across England, through workshops and a national Delphi study. This process mapped out the biggest pain points in EHR and IT, and produced consensus questions to measure the most important areas. We found recurring themes, both positive and negative:"
+  },
+  {
+    "objectID": "method.html#methodology",
+    "href": "method.html#methodology",
+    "title": "How did we develop the cDMA?",
+    "section": "Methodology",
+    "text": "Methodology\nThe slides below show a detailed methodology and key findings. A slide deck that includes the original questions that emerged from the Delphi study, can be downloaded here as a pdf. This work was conducted under the umbrella of NCIC, or the National Clinical Informatics Collaborative. The original Delphi study protocol can be downloaded here."
+  },
+  {
+    "objectID": "method.html#why-has-it-taken-so-long-to-come-out",
+    "href": "method.html#why-has-it-taken-so-long-to-come-out",
+    "title": "How did we develop the cDMA?",
+    "section": "Why has it taken so long to come out?",
+    "text": "Why has it taken so long to come out?\nYou may have noticed that this work started in Summer 2021! User validation and benchmarking were completed by Spring 2023. In the intervening time, our team has made a monumental effort to unite this survey with existing NHS England What Good Looks Like. While there has been excellent engagement, we could not find an agreement that would result in (1) publicly available results, and (2) mapping of all the problem areas that we know exist.\nAs a result, with the support of the British Medical Assoiation, we have launched this as a grassroots initiative."
   },
   {
     "objectID": "survey.html",

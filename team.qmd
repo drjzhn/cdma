@@ -1,4 +1,74 @@
 ---
-title: "Team"
+title: "The cDMA Team"
 ---
-Team
+
+::: {.callout-important}
+Development of this survey was carried out by NHS clinicians and study participants, pro bono and in their own time. At various points, members of the project team have been funded by the Wellcome Trust or NIHR for unrelated research. However, work associated with this project has not been funded directly.    
+:::
+
+### Project leads
+
+- Joe Zhang
+- Sanjay Budhdeo
+- Harpreet Sood
+- Angela Burgin
+
+### Special thanks
+
+- David Parkin
+- Latifa Patel
+- Ellen Coughlan
+- Sam Neville
+- Simon Noel
+- Kieran Zucker
+- Rahul Singal
+- Marcus Baw
+- Kanthan Theivendran
+- Dipesh Hindocha
+
+### Delphi panel
+(Only those who agreed to be publicly acknowledged for their work)
+
+::: {.grid}
+
+::: {.g-col-6}
+- Celina Pook
+- Gemma Snell
+- Peter Sin
+- Louise Cave
+- Leon Zlotos
+- Emma Manning
+- Jacob Brolly
+- Mark Coyne
+- Riaz Aziz
+- Junior Ahazie
+- Sandeep Gusai
+- Amy Vercell
+- Craig Brown
+- Julian Wyatt
+- Arturo Schlitzer
+- Yin Yin Lim
+- Helen Dillon
+:::
+
+::: {.g-col-6}
+- Anna Ainsworth
+- Ben Edwards
+- Priya Patel
+- James Maguire
+- Christopher Tomlinson
+- Joshi Prabhu Navis
+- Jordan Fulcher
+- Mariana Santos
+- Giorgio Bartalucci
+- Robert James
+- Ariel Ong
+- Parvathy Radhakrishnan
+- Matt Wilson
+- Yize Wan
+- Siddhant Parashar
+- Stuart Innes
+- Laurence Baker
+:::
+
+:::
