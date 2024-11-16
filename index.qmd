@@ -1,7 +1,36 @@
 ---
-title: "cdma"
+title: "What is the cDMA?"
 ---
 
-This is a Quarto website.
+Clinicians suffer every day from frequent software downtime, slow or broken computers, and poor access to vital information. These problems, and many others, get in the way of clinical work, and are a **risk to quality and safety of care**.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+The **Clinician Digital Maturity Assessment (cDMA)** was designed by clinicians to measure experiences and pain points of EHR from the shop floor perspective.
+
+It is designed for any clinical worker (e.g. doctor, nurse, pharmacist, AHP) in **primary care** and **hospitals**.
+
+The results will be used to drive improvement in clinical software and IT.
+
+[Take the cDMA Survey!]{.btn .btn-primary href="survey.html"}
+
+## There are so many surveys, why should I take this one?
+
+Yes, you are right.  There are far too many surveys, and they take far too long. But we would really appreciate it if you did this one. Here is why:
+
+::: {.callout}
+(1) **Your voice will be heard**. We are supported by the British Medical Association (BMA), the Health Foundation, and have direct channels open to the Care Quality Commission (CQC), the Health Safety Services Investigation Body (HSSIB), and to NHS England.
+
+(2) It was **designed by 150 of your clinician colleagues** through workshops and a national study to accurately reflect frontline experiences
+
+(3) It takes **8 minutes** (we've tried it!).
+
+(4) The survey is anonymous, but unlike many official NHS surveys, **data will be open source** for analysis. The state of our IT should be public information.
+:::
+
+## We need you to help spread the word...
+
+We need data to make change happen. That means we need as many of you to take this as possible. If you feel this is important, PLEASE spread the word. On social media, and in your Whatsapp groups!
+
+[Who created this?]{.btn .btn-secondary href="about.html"}
+[How did we design it?]{.btn .btn-secondary href="method.html"}
+[Take the cDMA Survey!]{.btn .btn-primary href="survey.html"}
+

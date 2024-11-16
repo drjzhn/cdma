@@ -5,16 +5,21 @@ project:
 website:
   title: "Clinician Digital Maturity Assessment"
   navbar:
-    left:
+    logo: figs/digitalhealth.png  
+    background: secondary
+    right:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: method.qmd
+        text: Method     
+      - href: team.qmd
+        text: Team             
+      - href: https://www.research.net/r/cliniciandigitalsurvey
+        text: Survey             
 
 format:
   html:
-    theme: cosmo
+    theme: zephyr
     css: styles.css
     toc: false
-
-
 

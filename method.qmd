@@ -1,0 +1,20 @@
+---
+title: "How did we develop the cDMA?"
+---
+
+
+
+To fix this, we need to measure it and understand it. But NHS digital assessments have always measured from the top down, from the perspective of managers, IT, and software suppliers.
+
+That's why we developed this survey, together with more than 150 clinicians (doctors, nurses, pharmacists) across the UK. This survey will measure the major problems and pain points with EHR from the perspective of those working on the 'shop floor'. 
+
+
+
+
+::: {.callout}
+- ⏳ I lose hours every week because our computer systems are 'down'
+
+- 🕘 I stay late at work most days because the computers are slow
+
+- 💻 I can't look after a patient because there are no working laptops on the ward
+:::
