@@ -25,6 +25,7 @@ Development of this survey was carried out by NHS clinicians and study participa
 - Marcus Baw
 - Kanthan Theivendran
 - Dipesh Hindocha
+- Hutan Ashrafian
 
 ### Delphi panel
 (Only those who agreed to be publicly acknowledged for their work)
