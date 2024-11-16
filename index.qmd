@@ -17,13 +17,13 @@ The results will be used to drive improvement in clinical software and IT.
 Yes, you are right.  There are far too many surveys, and they take far too long. But we would really appreciate it if you did this one. Here is why:
 
 ::: {.callout}
-(1) **Your voice will be heard**. We are supported by the British Medical Association (BMA), the Health Foundation, and have direct channels open to the Care Quality Commission (CQC), the Health Safety Services Investigation Body (HSSIB), and to NHS England.
+(1) **Your voice will be heard**. We are supported by the British Medical Association (BMA), the Health Foundation, and have direct channels open to the Care Quality Commission (CQC), the Health Safety Services Investigation Body (HSSIB), and to NHS England
 
 (2) It was **designed by 150 of your clinician colleagues** through workshops and a national study to accurately reflect frontline experiences
 
-(3) It takes **8 minutes** (we've tried it!).
+(3) It takes **8 minutes** (we've tried it!)
 
-(4) The survey is anonymous, but unlike other surveys, **data will be open source** for analysis. Measurements of public systems should be public knowledge.
+(4) The survey is anonymous and **data and results will be available to anyone who wants to analyse it** for free. We hope that this will help you to advocate for change in your local area
 :::
 
 ## We need you to help spread the word...
