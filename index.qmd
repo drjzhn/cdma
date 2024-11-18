@@ -33,3 +33,10 @@ We need data to make change happen. That means we need as many of you to take th
 [How did we design the survey?](method.qmd){.btn .btn-secondary}
 [Who created it?](team.qmd){.btn .btn-secondary}
 [Take the cDMA Survey!](https://www.research.net/r/cliniciandigitalsurvey){.btn .btn-primary}
+
+
+## Privacy policy
+
+::: {.callout-important}
+We are conducting this survey for the purposes of gathering information about user experiences of IT within the UK Health & Care System. All responses will be anonymous and results will be presented in an aggregated form as to not allow for the identification of any individual. For further information on how we use personal data please visit our [privacy policy](https://www.bma.org.uk/privacy-policy).
+:::
